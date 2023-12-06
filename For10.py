@@ -10,4 +10,4 @@ def main(list1):
     for i in list1:
         l.append(i.capitalize())
 
-    return l
+    return lf
